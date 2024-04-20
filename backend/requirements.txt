@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+aima3
+sqlalchemy
